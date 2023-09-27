@@ -1,0 +1,39 @@
+img {
+    width: 300px;
+    height: 200px;
+    margin-bottom: 10px;
+    border-radius: 2%;
+}
+h3 {
+    font-weight: bold;
+}
+ul li span {
+    font-weight: bold;
+}
+ul {
+    list-style: none;
+    margin-left: -10px;
+    padding-left: 10px;
+}
+.outlet {
+    width: 300px;
+    height: 595px;
+    border: 0.1px solid grey;
+    padding: 10px;
+    margin: 10px;
+    box-shadow: 6px 6px 3px 3px #ccc;
+    background-color: antiquewhite;
+    border-radius: 2%;
+}
+.inlet {
+    border: 0.1px solid grey;
+    padding: 10px;
+    border-radius: 2%;
+}
+.fact {
+    font-style: italic;
+}
+body {
+    display: flex;
+    justify-content: center;
+}
